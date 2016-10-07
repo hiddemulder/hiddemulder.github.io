@@ -1,0 +1,23 @@
+
+.jumbotron{
+  background-color:#cccbee;
+  border:green;
+}
+h4{
+font-weight:bold;
+}
+body{
+   font-weight: 300;
+   font-family: 'helvetica neue', arial, sans-serif;);
+}
+.btn-primary {
+  background-color:#1fadbc;
+}
+.container {
+    margin-top: 15px;
+}
+#yellowbackground
+{background-color:#ffffcc;}
+.winter{
+  background-image:url(winter.jpg);
+}
