@@ -21,3 +21,6 @@ body{
 .winter{
   background-image:url(winter.jpg);
 }
+a{
+  font-weight:bold;
+}
